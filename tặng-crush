@@ -13,7 +13,7 @@ const CONFIG = {
     desc: 'Làm sao cất tiếng nói ',
     btnYes: 'Anh yêu em nhiều lắm ',
     btnNo: 'Em yêu anh nhiều lắm  :3',
-    question:'Why',
+    question:'Gửi cho anh',
     btnReply: 'Yêu mỗi em trong đời',
     reply: 'Chỉ biết lặng im ôi sao bối rối',
     mess: 'Dẫu cho con tim rung động rồi. 😘😘',
